@@ -1,18 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
-get_ipython().system('pip install requests')
-
-
-# In[3]:
-
-
-get_ipython().system('pip install bs4')
-
-
 # In[24]:
 
 
